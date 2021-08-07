@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For libot
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Libot	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+set_left	KEYWORD2
+set_right	KEYWORD2
+move_forword	KEYWORD2
+move_back	KEYWORD2
+move_right	KEYWORD2
+move_left	KEYWORD2
+stop_motor	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
